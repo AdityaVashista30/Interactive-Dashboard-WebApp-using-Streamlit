@@ -1,2 +1,18 @@
 # Interactive-Dashboard-WebApp-using-Streamlit
-It is Web App to visualize data of tweets of people regarding various airline service providers
+It is Web App to visualize and understand data of tweets regarding various airline service providers
+
+The app is built using Streamlit python library for making the layout and to add functionality to app.
+
+Features of app:
+    
+    1. Shows random tweet according to selectd sentiment (Positive, Neutral. Negative)
+    2. Visualization of number of tweets by sentiment as Bar Graph or Pie Chart
+    3.Visualization of tweets on the basis of the location they were tweeted from and time on map
+    4. Visualizing wordclouds based on tweets' sentiment
+    5. Breakdown of tweets sentiment wise based categorized by airlines (one to multiple selectedO)
+    
+To run the app : Go to cmd and type: streamlit run app.py
+
+Prerequisites: Streamlit, wordcloud, plotyly,pandas and matplotlib.
+
+    
