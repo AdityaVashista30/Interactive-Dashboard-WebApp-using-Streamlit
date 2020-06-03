@@ -7,9 +7,10 @@ Features of app:
     
     1. Shows random tweet according to selectd sentiment (Positive, Neutral. Negative)
     2. Visualization of number of tweets by sentiment as Bar Graph or Pie Chart
-    3.Visualization of tweets on the basis of the location they were tweeted from and time on map
-    4. Visualizing wordclouds based on tweets' sentiment
-    5. Breakdown of tweets sentiment wise based categorized by airlines (one to multiple selectedO)
+    3.Visualization of tweets on the basis of time of tweet on map
+    4.Showing raw data with respect to time of tweet
+    5. Visualizing wordclouds based on tweets' sentiment
+    6. Breakdown of tweets sentiment wise based categorized by airlines (one to multiple selectedO)
     
 To run the app : Go to cmd and type: streamlit run app.py
 
